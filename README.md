@@ -1,5 +1,7 @@
 # Quartz
 
+ESSAI !! ;)
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
