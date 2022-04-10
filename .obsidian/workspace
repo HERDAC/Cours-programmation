@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_index.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "53c7d65d526f34fc",
   "lastOpenFiles": [
-    "_index.md",
-    "content/notes/custom Domain.md",
     "README.md",
+    "content/notes/_index.md",
+    "content/notes/custom Domain.md",
     "content/note/Installation.md",
     "content/notes/showcase.md",
     "content/notes/obsidian.md",
