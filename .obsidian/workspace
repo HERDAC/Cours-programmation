@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,15 @@
   },
   "active": "53c7d65d526f34fc",
   "lastOpenFiles": [
+    "_index.md",
+    "content/notes/custom Domain.md",
     "README.md",
-    "content/notes/Installation et mise en place pour Java.md",
     "content/note/Installation.md",
+    "content/notes/showcase.md",
+    "content/notes/obsidian.md",
+    "content/notes/editing.md",
+    "content/notes/config.md",
+    "content/notes/Installation et mise en place pour Java.md",
     "content/_index.md"
   ]
 }
