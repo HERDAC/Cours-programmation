@@ -1,4 +1,4 @@
-# Programmer un RaspiDAC 2
+# Programmer un RaspiDAC
 ## Introduction à Java
 Les Raspberry pi peuvent être programmé de multipple façon. Le RaspiDAC est spécialement conçu pour fonctionner avec un ou des programme(s) écri(en)t en Java bien qu'il puisse fonctionner avec d'autre language de programmation.
 Nous allons donc réaliser une initiation au Java au travers d'un cours basique de programmation en suivant les étapes suivantes:
