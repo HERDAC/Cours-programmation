@@ -7,12 +7,8 @@
         "id": "53c7d65d526f34fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "53c7d65d526f34fc",
   "lastOpenFiles": [
+    "static/icon.png",
     "README.md",
+    "screenshot.png",
+    "CODE_OF_CONDUCT.md",
+    "content/notes/_index 1.md",
     "content/notes/_index.md",
     "content/notes/custom Domain.md",
     "content/note/Installation.md",
     "content/notes/showcase.md",
-    "content/notes/obsidian.md",
-    "content/notes/editing.md",
-    "content/notes/config.md",
-    "content/notes/Installation et mise en place pour Java.md",
-    "content/_index.md"
+    "content/notes/obsidian.md"
   ]
 }
