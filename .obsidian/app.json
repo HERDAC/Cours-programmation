@@ -3,5 +3,9 @@
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "newFileLocation": "current"
 }

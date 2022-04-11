@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/Installation et mise en place pour Java.md",
+            "file": "content/notes/Installation Eclipse.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Installation et mise en place pour Java.md",
+                "file": "content/notes/Installation Eclipse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "53c7d65d526f34fc",
   "lastOpenFiles": [
+    "content/notes/Installation Eclipse.md",
     "content/notes/Installation et mise en place pour Java.md",
+    "content/notes/Installation vsCode.md",
     "content/_index.md",
     "content/private/private-note.md",
     "content/templates/post.md",
     "README.md",
     "content/notes/_index.md",
     "content/notes/images/obsidian-settings.png",
-    "content/notes/images/google-domains.png",
-    "content/notes/images/github-pages.png",
-    "content/notes/images/github-actions.png"
+    "content/notes/images/google-domains.png"
   ]
 }
