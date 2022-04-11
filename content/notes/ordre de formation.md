@@ -1,0 +1,13 @@
+- [ ] 02 Structure: 
+- [ ] Lab 01 introduction
+- [ ] 03 data et types
+- [ ] lab 02 type et data
+- [ ] 04 expressions
+- [ ] 05 boucle
+- [ ] lab 03 boucle et expressions
+- [ ] 06 fonctions
+- [ ] lab 04 fonctions
+- [ ] lab 06 nombre secret
+- [ ] 07 classe et objet
+- [ ] 08 structure de donnée
+- [ ] lab 07 révision sur les classes
