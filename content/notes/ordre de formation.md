@@ -12,3 +12,6 @@
 - [ ] 07 classe et objet
 - [ ] 08 structure de donnée
 - [ ] lab 07 révision sur les classes
+
+
+![Best fractals](notes/video/Best%20fractals%20zoom%20ever.mp4)
