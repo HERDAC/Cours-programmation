@@ -91,12 +91,13 @@
   "lastOpenFiles": [
     "content/notes/Installation et mise en place pour Java.md",
     "content/_index.md",
+    "content/private/private-note.md",
+    "content/templates/post.md",
     "README.md",
     "content/notes/_index.md",
     "content/notes/images/obsidian-settings.png",
     "content/notes/images/google-domains.png",
     "content/notes/images/github-pages.png",
-    "content/notes/images/github-actions.png",
-    "static/icon.png"
+    "content/notes/images/github-actions.png"
   ]
 }

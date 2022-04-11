@@ -1,5 +1,5 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
+baseURL = "http://raspidac.herdac.ch"
+languageCode = "fr-ch"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
 relativeURLs = false
